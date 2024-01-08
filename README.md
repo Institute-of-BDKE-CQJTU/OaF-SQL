@@ -1,6 +1,6 @@
 Code and datasets of our paper "A Question-aware Few-shot Text-to-SQL Neural Model for Industrial Databases"
 
-Our post-training code is based on PyTorch(1.8.1) and Transformers(4.21.0), and fine-tuning code is identical with https://github.com/alibaba/AliceMind/tree/main/SDCUP in requirements.
+Our code is based on PyTorch(1.8.1) and Transformers(4.21.0), and is identical with https://github.com/alibaba/AliceMind/tree/main/SDCUP in requirements.
 
 ## Data
 The few-shot ESQL dataset are located in the "data/esql" directory.
